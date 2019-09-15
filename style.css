@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    font-style: normal;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    background-attachment: fixed;
+
+}
+
+.usering {
+    max-height: 900px;
+    font-variant-position: super
+}
